@@ -362,7 +362,5 @@ The system helps businesses:
 
 ---
 
-![Overall Analysis Dashboard](https://github.com/TechByJay/OLA_Ride_Analytics_and_Business_Intelligence_Dashboard/blob/main/snapshot_of_dashboard_1.jpeg)
-
 ---
 
