@@ -263,9 +263,7 @@ The dashboard provides interactive business insights including:
 
 # Dashboard Preview
 
-## Modern Dashboard UI
-
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](https://github.com/TechByJay/Vendor_Performance_and_Inventory_Analytics_System/blob/master/Vendor_Performance_and_Inventory_Analytics_System.jpeg)
 
 ---
 
@@ -299,7 +297,7 @@ The dashboard provides interactive business insights including:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/jay-Rande/Vendor_Performance_and_Inventory_Analytics_System.git
+git clone https://github.com/TechByJay/Vendor_Performance_and_Inventory_Analytics_System.git
 ```
 
 ---
@@ -359,7 +357,12 @@ The system helps businesses:
 
 ## Jay Vasant Rande
 
-Aspiring Data Analyst | Full Stack Developer | Analytics Enthusiast
+- Email: jayrandecs@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jay-rande/
+
+---
+
+![Overall Analysis Dashboard](https://github.com/TechByJay/OLA_Ride_Analytics_and_Business_Intelligence_Dashboard/blob/main/snapshot_of_dashboard_1.jpeg)
 
 ---
 
